@@ -1,8 +1,8 @@
-📘 Project Title
+# Project Title
 
 Direct Air Capture (DAC) Technology: Scaling, Cost Analysis, and Economic Feasibility
 
-🧾 Project Description
+# Project Description
 
 This project explores Direct Air Capture (DAC) technology as a climate solution for removing CO₂ directly from the atmosphere. Using data-driven modeling and real-world project cost estimates, the study analyzes:
 
@@ -14,13 +14,13 @@ Economic feasibility at gigaton-scale CO₂ removal
 
 The project combines engineering data, economic modeling, and visualization in Python to evaluate whether DAC can realistically scale to climate-relevant levels.
 
-🎯 Objectives
+# Objectives
 Compare current DAC technologies and their costs
 Analyze differences between Liquid DAC and Solid DAC systems
 Model future DAC cost reduction trends
 Evaluate scaling feasibility for gigaton-level CO₂ removal
 Compare DAC costs with global economic capacity (GDP-based analysis)
-🧪 Methodology
+# Methodology
 
 The project uses:
 
@@ -32,7 +32,7 @@ Scenario-based modeling for future cost reduction
 Learning curve / exponential decay models
 Python-based data visualization (Matplotlib, Pandas)
 Comparative engineering analysis
-📊 Key Analyses Included
+ # Key Analyses Included
 1. Current DAC Cost Comparison
 Real DAC project cost benchmarking
 Technology-wise comparison (Liquid vs Solid DAC)
@@ -48,12 +48,12 @@ Assessment of affordability at large scale
 5. Material & Infrastructure Comparison
 Steel, cement, aluminum, and land requirements
 Comparison between Liquid and Solid DAC systems
-🧮 Tools & Technologies
+# Tools & Technologies
 Python (Pandas, NumPy, Matplotlib)
 Excel (data structuring)
 Jupyter Notebook
 Data modeling & visualization
-📈 Key Insights
+# Key Insights
 DAC is currently very expensive ($400–$1000/tCO₂)
 Costs vary significantly between technologies
 Liquid and Solid DAC have different infrastructure demands
@@ -64,7 +64,7 @@ Policy support
 Cost reduction to ~$100/tCO₂
 Large-scale DAC (gigaton level) could cost:
 ~$200B per 1 Gt CO₂/year at $200/tCO₂
-🌍 Conclusion
+# Conclusion
 
 Direct Air Capture (DAC) is a promising but still emerging climate technology. While current costs are high, modeling shows that with technological learning, policy support, and industrial scaling, DAC could become a viable tool for large-scale carbon removal in the future.
 
